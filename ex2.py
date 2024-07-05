@@ -1,1 +1,1 @@
-print("outro ex")
+print()
